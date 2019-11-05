@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "Tech stream",
+      "description": "testing",
+      "id": 1
+    },
+    {
+      "title": "My stream ",
+      "description": "my test stream to be sure that everything is okay",
+      "id": 2
+    },
+    {
+      "title": "U Stream",
+      "description": "Expected Stream",
+      "id": 5
+    },
+    {
+      "title": "new title",
+      "description": "new desription",
+      "userId": "112258057747063014260",
+      "id": 6
+    },
+    {
+      "title": "Tech stream",
+      "description": "testing",
+      "userId": "111217585679052145416",
+      "id": 7
+    }
+  ]
+}
